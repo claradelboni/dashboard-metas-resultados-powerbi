@@ -23,6 +23,7 @@ Tabela detalhada por equipe (custo, faturamento e lucro)
 
 Filtros por mês e por equipe
 
+
 📈 Principais Métricas
 Faturamento Total: R$ 2,32 milhões
 
@@ -41,11 +42,14 @@ Power Query (para transformação de dados)
 
 DAX (para cálculo de metas, percentuais, faturamento e lucro)
 
+
 📁 Arquivo
 dashboard-metas-resultados.pbix – Arquivo editável do Power BI
 
+
 💡 Insights
 A visualização centraliza as metas e os resultados alcançados de forma clara e objetiva. A separação por produto, marca e equipe permite avaliar o desempenho sob diferentes perspectivas, identificar gargalos e oportunidades de crescimento. 
+
 
 👩‍💻 Desenvolvido por: Clara Delboni
 💡 Este projeto foi desenvolvido como parte de um exercício prático para portfólio. Layout, visualizações e lógicas de cálculo foram personalizadas.
