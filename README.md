@@ -2,7 +2,8 @@
 
 Este projeto foi desenvolvido no Power BI Desktop com o objetivo de apresentar de forma visual e interativa o desempenho de equipes e produtos em relação às metas definidas, facilitando o monitoramento e a tomada de decisões estratégicas.
 
-<!-- Substitua pelo caminho correto no repositório, ex: images/dashboard.png -->
+![Dashboard Metas e Resultados](https://github.com/claradelboni/dashboard-metas-resultados-powerbi/blob/main/Metas_Resultados.png?raw=true)
+
 
 ⚠️ Atenção: Os dados utilizados neste projeto são fictícios e foram criados exclusivamente para fins educacionais e de demonstração. Não representam dados reais de nenhuma empresa.
 
